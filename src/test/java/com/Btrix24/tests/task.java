@@ -22,11 +22,11 @@ public class task {
      public void Hello2() {
         System.out.println("Git pull effect");
     }
-    public void Hello3() {
-        System.out.println("Check push direct");
-    }
     public void Hello4() {
         System.out.println("4444");
+    }
+    public void Hello7() {
+        System.out.println("77777");
     }
 
 }
