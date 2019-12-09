@@ -7,7 +7,11 @@ public class task {
         System.out.println("Hello");
 
     }
-
+    public static void checkMid() {
+        System.out.println("Mid change");
+    
+    }
+        
     public void hi() {
         System.out.println("Hi from IntelliJ");
     }
