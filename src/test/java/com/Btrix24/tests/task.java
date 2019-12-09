@@ -11,7 +11,7 @@ public class task {
     public void hi() {
         System.out.println("Hi from IntelliJ");
     }
-    public void hi() {
+    public void Hello() {
         System.out.println("Git pull effect");
     }
 
