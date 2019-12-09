@@ -17,8 +17,9 @@ public class task {
     
     }
     public void Hello() {
-        System.out.println("Git pull effect");
+        System.out.println("555");
     }
+<<<<<<< HEAD
      public void Hello2() {
         System.out.println("Git pull effect");
     }
@@ -29,4 +30,7 @@ public class task {
         System.out.println("77777");
     }
 
+=======
+     
+>>>>>>> ac828f94b36f5b563850fcb32bbda5c02e9e170f
 }
