@@ -51,10 +51,7 @@ public class event {
         
         //Let see git pull effect
     }
-<<<<<<< HEAD
 
 }
 
-=======
-}
->>>>>>> fda7de372dc4ddff6e85b60e4b13d7422b62d396
+
