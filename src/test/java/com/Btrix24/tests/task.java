@@ -17,16 +17,7 @@ public class task {
     
     }
     public void Hello() {
-        System.out.println("Git pull effect");
+        System.out.println("555");
     }
-     public void Hello2() {
-        System.out.println("Git pull effect");
-    }
-    public void Hello3() {
-        System.out.println("Check push direct");
-    }
-    public void Hello4() {
-        System.out.println("4444");
-    }
-
+     
 }
