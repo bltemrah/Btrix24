@@ -12,8 +12,9 @@ public class task {
     
     }
         
-    public void hi() {
-        System.out.println("Hi from IntelliJ");
+    public static void checkMid2 () {
+        System.out.println("Mid change");
+    
     }
     public void Hello() {
         System.out.println("Git pull effect");
