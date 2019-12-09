@@ -17,5 +17,8 @@ public class task {
      public void Hello2() {
         System.out.println("Git pull effect");
     }
+    public void Hello3() {
+        System.out.println("Check push direct");
+    }
 
 }
