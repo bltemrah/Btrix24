@@ -14,5 +14,8 @@ public class task {
     public void Hello() {
         System.out.println("Git pull effect");
     }
+     public void Hello2() {
+        System.out.println("Git pull effect");
+    }
 
 }
