@@ -41,27 +41,20 @@ public class event {
 
         //sending some username
         username.sendKeys("Mike Smith");
+        
     }
     @Test
-    public void test2() {
-        driver.get("http://practice.cybertekschool.com/dynamic_controls");
-
-        //click enable
-        driver.findElement(By.xpath("//button[contains(text(),'Enable')]")).click();
-
-        WebElement inputBox = driver.findElement(By.cssSelector("input[type=‘text’]"));
-
-        //wait until element (inputBox) is enabled or clickable
-        //create to object to wait
-
-        WebDriverWait wait = new WebDriverWait(driver, 30);
-
-        wait.until(ExpectedConditions.elementToBeClickable(inputBox));
-
-        //type something in the inputbox
-        inputBox.sendKeys("Something");
-
+    public void test1() throws InterruptedException {
+        driver.get("http://practice.cybertekschool.com/dynamic_loading/4");
+        String message = driver.findElement(By.id("finish")).getText();
+        System.out.println(message);
+        
+        //Let see git pull effect
     }
+<<<<<<< HEAD
 
 }
 
+=======
+}
+>>>>>>> fda7de372dc4ddff6e85b60e4b13d7422b62d396
