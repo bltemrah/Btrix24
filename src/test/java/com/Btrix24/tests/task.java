@@ -6,10 +6,7 @@ public class task {
 
         System.out.println("Hello");
 
-
     }
-<<<<<<< HEAD
-=======
 
     public void hi() {
         System.out.println("Hi from IntelliJ");
@@ -17,5 +14,5 @@ public class task {
     public void hi() {
         System.out.println("Git pull effect");
     }
->>>>>>> b9f9503f5224fb08a98a6a565d72d35a72be290d
+
 }
