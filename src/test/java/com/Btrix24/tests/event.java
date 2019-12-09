@@ -48,5 +48,7 @@ public class event {
         driver.get("http://practice.cybertekschool.com/dynamic_loading/4");
         String message = driver.findElement(By.id("finish")).getText();
         System.out.println(message);
+        
+        //Let see git pull effect
     }
 }
