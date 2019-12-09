@@ -20,5 +20,8 @@ public class task {
     public void Hello3() {
         System.out.println("Check push direct");
     }
+    public void Hello4() {
+        System.out.println("4444");
+    }
 
 }
