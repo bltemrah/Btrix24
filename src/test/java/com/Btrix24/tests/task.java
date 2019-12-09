@@ -12,4 +12,7 @@ public class task {
     public void hi() {
         System.out.println("Hi from IntelliJ");
     }
+    public void hi() {
+        System.out.println("Git pull effect");
+    }
 }
