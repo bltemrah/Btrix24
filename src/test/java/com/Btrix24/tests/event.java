@@ -1,5 +1,6 @@
 package com.Btrix24.tests;
 
+import com.Btrix24.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
