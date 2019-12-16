@@ -3,7 +3,9 @@ package com.Btrix24.tests;
 public class poll {
 
 
-
+    public static void name() {
+    
+    }
 
 
 
@@ -11,6 +13,4 @@ public class poll {
     //Btrix24/src/test/java/tests/login.java
 
 
-//added line 10 from IDE
-    //Btrix24/src/test/java/tests/login.java
 }
