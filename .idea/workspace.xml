@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96272e88-198b-40e6-8709-80853c489a42" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Btrix24/tests/task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Btrix24/tests/task.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,5 +64,11 @@
       <updated>1575912432967</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1857" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1576516388268">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1857" y="266" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1680.1027@-1920.23.1920.1057" timestamp="1576516388268" />
   </component>
 </project>
